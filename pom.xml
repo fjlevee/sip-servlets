@@ -72,9 +72,9 @@
 	</licenses>
 
 	<scm>
-		<connection>scm:git:https://code.google.com/p/sipservlets/</connection>
-		<developerConnection>scm:git:https://code.google.com/p/sipservlets/</developerConnection>
-		<url>https://code.google.com/p/sipservlets/</url>
+		<connection>scm:git:git@github.com:fjlevee/sip-servlets.git</connection>
+		<developerConnection>scm:git:git@github.com:fjlevee/sip-servlets.git</developerConnection>
+		<url>https://github.com/fjlevee/sip-servlets</url>
 	</scm>
 
 	<modules>
